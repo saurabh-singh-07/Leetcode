@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/saurabh-singh-07/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurabh-singh-07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/saurabh-singh-07/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/saurabh-singh-07/Leetcode/tree/master/0724-find-pivot-index) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/saurabh-singh-07/Leetcode/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -44,4 +47,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1822-sign-of-the-product-of-an-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
