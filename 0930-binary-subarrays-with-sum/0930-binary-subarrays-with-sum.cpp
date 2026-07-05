@@ -7,11 +7,8 @@ public:
         int count = 0;
         for(int i : nums){
             sum += i;
-
-            int target = sum - goal;
-
-            if(mp.find(target) != mp.end()){
-                count += mp[target];
+            if(mp.find(sum - goal) != mp.end()){
+                count += mp[sum - goal];
             }
             mp[sum] ++;
         }
