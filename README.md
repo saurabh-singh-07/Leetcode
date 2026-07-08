@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/saurabh-singh-07/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurabh-singh-07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/saurabh-singh-07/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/saurabh-singh-07/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/saurabh-singh-07/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/saurabh-singh-07/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/saurabh-singh-07/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/saurabh-singh-07/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/saurabh-singh-07/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/saurabh-singh-07/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saurabh-singh-07/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saurabh-singh-07/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
