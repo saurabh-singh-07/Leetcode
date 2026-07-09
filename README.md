@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/saurabh-singh-07/Leetcode/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/saurabh-singh-07/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/saurabh-singh-07/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/saurabh-singh-07/Leetcode/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/saurabh-singh-07/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/saurabh-singh-07/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/saurabh-singh-07/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Recursion
 |  |
@@ -129,4 +133,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/1025-divisor-game) |
+## Binary Search
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
