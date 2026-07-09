@@ -1,17 +1,22 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        if (n == INT_MAX) return (x == 1) ? 1 : (x == -1) ? -1 : 0;
-        if (n == INT_MIN) return (x == 1 || x == -1) ? 1 : 0;
-
         double ans = 1;
-        for(long long i = 1; i <= abs(n); i ++){
-            ans *= x;
-        }
+        long long  num = n;
 
-        if(n < 0){
-            return 1/ans;
+        if(num < 0) num = -1 * num;
+
+        while(num > 0){
+            if(num % 2){
+                ans = ans * x;
+                num = num - 1;
+            }
+            else{
+                x = x * x;
+                num = num / 2;
+            }
         }
+        if(n < 0) return 1/ans;
         return ans;
     }
 };
