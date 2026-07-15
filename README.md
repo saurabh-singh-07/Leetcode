@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/saurabh-singh-07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/saurabh-singh-07/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/saurabh-singh-07/Leetcode/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/saurabh-singh-07/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/saurabh-singh-07/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/saurabh-singh-07/Leetcode/tree/master/0917-reverse-only-letters) |
 | [2942-find-words-containing-character](https://github.com/saurabh-singh-07/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/saurabh-singh-07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/saurabh-singh-07/Leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/saurabh-singh-07/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/saurabh-singh-07/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/saurabh-singh-07/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0917-reverse-only-letters](https://github.com/saurabh-singh-07/Leetcode/tree/master/0917-reverse-only-letters) |
