@@ -1,18 +1,23 @@
 class Solution {
 public:
     long long gcdSum(vector<int>& nums) {
-        
-        int maxi = 0;
-        for(int& i : nums){
-            maxi = max(maxi, i);
-            i = gcd(maxi, i);
+        vector<long long> prefixGcd(nums.size());
+        int mx = INT_MIN;
+        for(long long i = 0; i < nums.size(); i ++){
+            mx = max(mx, nums[i]);
+            long long num = gcd(mx, nums[i]);
+            prefixGcd[i] = num;
         }
-        sort(nums.begin(), nums.end());
 
-        long long res =0;
-        for(int i =0, j = nums.size() - 1; i < j; i ++, j --){
-            res += gcd(nums[i], nums[j]);
+        sort(prefixGcd.begin(), prefixGcd.end());
+        long long st = 0;
+        long long  en = prefixGcd.size() -1;
+        long long sum = 0;
+        while(st < en){
+            sum += gcd(prefixGcd[st], prefixGcd[en]);
+            st++;
+            en--;
         }
-        return res;
+        return sum;
     }
 };
