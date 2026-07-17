@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/saurabh-singh-07/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/saurabh-singh-07/Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/saurabh-singh-07/Leetcode/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/saurabh-singh-07/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/saurabh-singh-07/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/saurabh-singh-07/Leetcode/tree/master/0917-reverse-only-letters) |
 | [2942-find-words-containing-character](https://github.com/saurabh-singh-07/Leetcode/tree/master/2942-find-words-containing-character) |
