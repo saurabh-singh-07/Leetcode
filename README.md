@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/saurabh-singh-07/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/saurabh-singh-07/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/saurabh-singh-07/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/saurabh-singh-07/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saurabh-singh-07/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saurabh-singh-07/Leetcode/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/saurabh-singh-07/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0242-valid-anagram](https://github.com/saurabh-singh-07/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/saurabh-singh-07/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0414-third-maximum-number) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/saurabh-singh-07/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/saurabh-singh-07/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/saurabh-singh-07/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/saurabh-singh-07/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saurabh-singh-07/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/saurabh-singh-07/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saurabh-singh-07/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
