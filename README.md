@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/saurabh-singh-07/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/saurabh-singh-07/Leetcode/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0877-stone-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/saurabh-singh-07/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saurabh-singh-07/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/saurabh-singh-07/Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/saurabh-singh-07/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/saurabh-singh-07/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saurabh-singh-07/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/saurabh-singh-07/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
