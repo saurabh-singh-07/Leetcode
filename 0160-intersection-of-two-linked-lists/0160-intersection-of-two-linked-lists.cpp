@@ -13,8 +13,8 @@ public:
         ListNode * list2 = headB;
 
         while(list1 != list2){
-            list1 = list1 != nullptr ? list1->next : headA;
-            list2 = list2 != nullptr ? list2 -> next : headB;
+            list1 = (list1 != nullptr) ? list1->next : headA;
+            list2 = (list2 != nullptr) ? list2 -> next : headB;
 
         }
 
