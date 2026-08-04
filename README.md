@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saurabh-singh-07/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/saurabh-singh-07/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/saurabh-singh-07/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1310-xor-queries-of-a-subarray](https://github.com/saurabh-singh-07/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saurabh-singh-07/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/saurabh-singh-07/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saurabh-singh-07/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
