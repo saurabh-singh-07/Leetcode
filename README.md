@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/saurabh-singh-07/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2614-prime-in-diagonal](https://github.com/saurabh-singh-07/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2942-find-words-containing-character](https://github.com/saurabh-singh-07/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3364-minimum-positive-sum-subarray](https://github.com/saurabh-singh-07/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saurabh-singh-07/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/saurabh-singh-07/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2614-prime-in-diagonal](https://github.com/saurabh-singh-07/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saurabh-singh-07/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/saurabh-singh-07/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saurabh-singh-07/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/saurabh-singh-07/Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/saurabh-singh-07/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2614-prime-in-diagonal](https://github.com/saurabh-singh-07/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saurabh-singh-07/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saurabh-singh-07/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/saurabh-singh-07/Leetcode/tree/master/1260-shift-2d-grid) |
+| [2614-prime-in-diagonal](https://github.com/saurabh-singh-07/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Trie
 |  |
 | ------- |
