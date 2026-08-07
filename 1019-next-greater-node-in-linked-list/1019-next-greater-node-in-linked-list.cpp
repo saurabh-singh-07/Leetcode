@@ -12,25 +12,31 @@ class Solution {
 public:
     vector<int> nextLargerNodes(ListNode* head) {
         vector<int> ans;
-        int largest = 0;
         ListNode * curr = head;
+        stack<int> st;
+        ListNode * prev = nullptr;
+
         while(curr){
-            ListNode * temp = curr;
-            largest = curr -> val;
-            while(temp){
-                if(largest < temp -> val){
-                    largest = temp-> val;
-                    break;
-                }
-                temp = temp -> next;
-            }
-            if(largest == curr -> val)
-                ans.push_back(0);
-            else
-                ans.push_back(largest);
-            
-            curr = curr -> next;
+            ListNode * nextNode = curr-> next;
+            curr -> next = prev;
+            prev = curr ;
+            curr = nextNode;
         }
+
+        ListNode * temp = prev;
+
+        while(temp) {
+            while(!st.empty() && st.top() <= temp -> val){
+                st.pop();
+
+            }
+            if(st.empty()) ans.push_back(0);
+            else ans.push_back(st.top());
+
+            st.push(temp-> val);
+            temp = temp -> next;
+        }
+        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
