@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/saurabh-singh-07/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/saurabh-singh-07/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saurabh-singh-07/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/saurabh-singh-07/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saurabh-singh-07/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/saurabh-singh-07/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saurabh-singh-07/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/saurabh-singh-07/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/saurabh-singh-07/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2942-find-words-containing-character](https://github.com/saurabh-singh-07/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/saurabh-singh-07/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/saurabh-singh-07/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Brainteaser
 |  |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/saurabh-singh-07/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/saurabh-singh-07/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/saurabh-singh-07/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saurabh-singh-07/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saurabh-singh-07/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -359,4 +362,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/saurabh-singh-07/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/saurabh-singh-07/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/saurabh-singh-07/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
