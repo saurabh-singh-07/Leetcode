@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/saurabh-singh-07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/saurabh-singh-07/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/saurabh-singh-07/Leetcode/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/saurabh-singh-07/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/saurabh-singh-07/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/saurabh-singh-07/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/saurabh-singh-07/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/saurabh-singh-07/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/saurabh-singh-07/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/saurabh-singh-07/Leetcode/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/saurabh-singh-07/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/saurabh-singh-07/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saurabh-singh-07/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
