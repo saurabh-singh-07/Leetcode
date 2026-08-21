@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/saurabh-singh-07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0895-maximum-frequency-stack](https://github.com/saurabh-singh-07/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0930-binary-subarrays-with-sum](https://github.com/saurabh-singh-07/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saurabh-singh-07/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/saurabh-singh-07/Leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/saurabh-singh-07/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0895-maximum-frequency-stack](https://github.com/saurabh-singh-07/Leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Math
 |  |
 | ------- |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/saurabh-singh-07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/saurabh-singh-07/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0895-maximum-frequency-stack](https://github.com/saurabh-singh-07/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saurabh-singh-07/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/saurabh-singh-07/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/saurabh-singh-07/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/saurabh-singh-07/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0895-maximum-frequency-stack](https://github.com/saurabh-singh-07/Leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Number Theory
 |  |
 | ------- |
