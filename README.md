@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/saurabh-singh-07/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/saurabh-singh-07/Leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/saurabh-singh-07/Leetcode/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0877-stone-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/saurabh-singh-07/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/saurabh-singh-07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saurabh-singh-07/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/saurabh-singh-07/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/saurabh-singh-07/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0895-maximum-frequency-stack](https://github.com/saurabh-singh-07/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saurabh-singh-07/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/saurabh-singh-07/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/saurabh-singh-07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saurabh-singh-07/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/saurabh-singh-07/Leetcode/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/saurabh-singh-07/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Enumeration
 |  |
