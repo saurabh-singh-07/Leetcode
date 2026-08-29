@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/saurabh-singh-07/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/saurabh-singh-07/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/saurabh-singh-07/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/saurabh-singh-07/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/saurabh-singh-07/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/saurabh-singh-07/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2487-remove-nodes-from-linked-list](https://github.com/saurabh-singh-07/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/saurabh-singh-07/Leetcode/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/saurabh-singh-07/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/saurabh-singh-07/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2487-remove-nodes-from-linked-list](https://github.com/saurabh-singh-07/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-merge-in-between-linked-lists](https://github.com/saurabh-singh-07/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/saurabh-singh-07/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saurabh-singh-07/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/saurabh-singh-07/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Depth-First Search
 |  |
