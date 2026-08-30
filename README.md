@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/saurabh-singh-07/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2614-prime-in-diagonal](https://github.com/saurabh-singh-07/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2942-find-words-containing-character](https://github.com/saurabh-singh-07/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/saurabh-singh-07/Leetcode/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saurabh-singh-07/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/saurabh-singh-07/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saurabh-singh-07/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
