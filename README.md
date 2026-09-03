@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/saurabh-singh-07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/saurabh-singh-07/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/saurabh-singh-07/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/saurabh-singh-07/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/saurabh-singh-07/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/saurabh-singh-07/Leetcode/tree/master/0415-add-strings) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/saurabh-singh-07/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saurabh-singh-07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/saurabh-singh-07/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabh-singh-07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -500,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/saurabh-singh-07/Leetcode/tree/master/0901-online-stock-span) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/saurabh-singh-07/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
