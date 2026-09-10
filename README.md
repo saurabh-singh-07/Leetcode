@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/saurabh-singh-07/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/saurabh-singh-07/Leetcode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/saurabh-singh-07/Leetcode/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/saurabh-singh-07/Leetcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/saurabh-singh-07/Leetcode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0507-perfect-number) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/saurabh-singh-07/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saurabh-singh-07/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/saurabh-singh-07/Leetcode/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/saurabh-singh-07/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/saurabh-singh-07/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
