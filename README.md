@@ -467,10 +467,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0100-same-tree) |
 | [3310-remove-methods-from-project](https://github.com/saurabh-singh-07/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0100-same-tree) |
 | [3310-remove-methods-from-project](https://github.com/saurabh-singh-07/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -519,4 +521,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/saurabh-singh-07/Leetcode/tree/master/0069-sqrtx) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
