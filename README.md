@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/saurabh-singh-07/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/saurabh-singh-07/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2614-prime-in-diagonal](https://github.com/saurabh-singh-07/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2942-find-words-containing-character](https://github.com/saurabh-singh-07/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/saurabh-singh-07/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/saurabh-singh-07/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2094-finding-3-digit-even-numbers](https://github.com/saurabh-singh-07/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/saurabh-singh-07/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saurabh-singh-07/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/saurabh-singh-07/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/saurabh-singh-07/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saurabh-singh-07/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/saurabh-singh-07/Leetcode/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/saurabh-singh-07/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/saurabh-singh-07/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/saurabh-singh-07/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saurabh-singh-07/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/saurabh-singh-07/Leetcode/tree/master/1291-sequential-digits) |
+| [2094-finding-3-digit-even-numbers](https://github.com/saurabh-singh-07/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saurabh-singh-07/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saurabh-singh-07/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Ordered Set
