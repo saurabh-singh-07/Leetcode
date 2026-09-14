@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/saurabh-singh-07/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/saurabh-singh-07/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saurabh-singh-07/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -542,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/saurabh-singh-07/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0100-same-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/saurabh-singh-07/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
