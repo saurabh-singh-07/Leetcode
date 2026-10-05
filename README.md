@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/saurabh-singh-07/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/saurabh-singh-07/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0895-maximum-frequency-stack](https://github.com/saurabh-singh-07/Leetcode/tree/master/0895-maximum-frequency-stack) |
+| [0897-increasing-order-search-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/saurabh-singh-07/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saurabh-singh-07/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/saurabh-singh-07/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/saurabh-singh-07/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/saurabh-singh-07/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/saurabh-singh-07/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [3310-remove-methods-from-project](https://github.com/saurabh-singh-07/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/saurabh-singh-07/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/saurabh-singh-07/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/saurabh-singh-07/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/saurabh-singh-07/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Geometry
 |  |
 | ------- |
@@ -602,4 +606,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
