@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/saurabh-singh-07/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2614-prime-in-diagonal](https://github.com/saurabh-singh-07/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2942-find-words-containing-character](https://github.com/saurabh-singh-07/Leetcode/tree/master/2942-find-words-containing-character) |
+| [2974-minimum-number-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/2974-minimum-number-game) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/saurabh-singh-07/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saurabh-singh-07/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/saurabh-singh-07/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2974-minimum-number-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/saurabh-singh-07/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saurabh-singh-07/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saurabh-singh-07/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/saurabh-singh-07/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/saurabh-singh-07/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/saurabh-singh-07/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2974-minimum-number-game](https://github.com/saurabh-singh-07/Leetcode/tree/master/2974-minimum-number-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saurabh-singh-07/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
