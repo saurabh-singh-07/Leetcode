@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/saurabh-singh-07/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/saurabh-singh-07/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/saurabh-singh-07/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/saurabh-singh-07/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/saurabh-singh-07/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/saurabh-singh-07/Leetcode/tree/master/0066-plus-one) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/saurabh-singh-07/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/saurabh-singh-07/Leetcode/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saurabh-singh-07/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
