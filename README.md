@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/saurabh-singh-07/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/saurabh-singh-07/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/saurabh-singh-07/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/saurabh-singh-07/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabh-singh-07/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [3310-remove-methods-from-project](https://github.com/saurabh-singh-07/Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saurabh-singh-07/Leetcode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/saurabh-singh-07/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/saurabh-singh-07/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [3310-remove-methods-from-project](https://github.com/saurabh-singh-07/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/saurabh-singh-07/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/saurabh-singh-07/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/saurabh-singh-07/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabh-singh-07/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/saurabh-singh-07/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/saurabh-singh-07/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/saurabh-singh-07/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabh-singh-07/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Geometry
@@ -628,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/saurabh-singh-07/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/saurabh-singh-07/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabh-singh-07/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Counting Sort
