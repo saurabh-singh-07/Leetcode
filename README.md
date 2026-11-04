@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/saurabh-singh-07/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/saurabh-singh-07/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/saurabh-singh-07/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/saurabh-singh-07/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-singh-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabh-singh-07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/saurabh-singh-07/Leetcode/tree/master/0389-find-the-difference) |
 | [1310-xor-queries-of-a-subarray](https://github.com/saurabh-singh-07/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saurabh-singh-07/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saurabh-singh-07/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saurabh-singh-07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/saurabh-singh-07/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabh-singh-07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/saurabh-singh-07/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/saurabh-singh-07/Leetcode/tree/master/0704-binary-search) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/saurabh-singh-07/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/saurabh-singh-07/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/saurabh-singh-07/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saurabh-singh-07/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabh-singh-07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -573,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/saurabh-singh-07/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -678,4 +683,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saurabh-singh-07/Leetcode/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/saurabh-singh-07/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
