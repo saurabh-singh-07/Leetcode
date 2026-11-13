@@ -1,15 +1,12 @@
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
+        
         int target = 1;
-        for(int n : nums){
-            if(n == target){
-                target ++;
-            }
-            else if( n > target){
-                return target;
-            }
+        sort(nums.begin(), nums.end());
+        for(int i : nums){
+            if(target == i) target ++;
+            else if (target < i) return target;
         }
         return target;
     }
